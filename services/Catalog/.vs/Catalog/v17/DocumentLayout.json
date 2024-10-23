@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\desenvMateus\\ecommerce\\services\\Catalog\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07692B92-BEDF-4416-BCD8-972860054EDD}|Catalog.csproj|c:\\desenvmateus\\ecommerce\\services\\catalog\\controllers\\catalog\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07692B92-BEDF-4416-BCD8-972860054EDD}|Catalog.csproj|solutionrelative:controllers\\catalog\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\desenvMateus\\ecommerce\\services\\Catalog\\Controllers\\Catalog\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Catalog\\CatalogController.cs",
+              "ToolTip": "C:\\desenvMateus\\ecommerce\\services\\Catalog\\Controllers\\Catalog\\CatalogController.cs",
+              "RelativeToolTip": "Controllers\\Catalog\\CatalogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:46:32.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
