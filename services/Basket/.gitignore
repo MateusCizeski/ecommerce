@@ -1,0 +1,51 @@
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configurações locais de usuário
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Logs e relatórios de erros
+*.log
+*.tlg
+*.dat
+*.dmp
+
+# Arquivos gerados pelo Visual Studio
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.vcopkg
+.vscode/
+
+# Arquivos temporários e cache
+_DownloadTemp/
+TestResults/
+node_modules/
+bower_components/
+
+# Chaves de criptografia e secrets
+*.pfx
+*.p12
+
+# Arquivos específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Docker e Containers
+docker-compose.override.yml
+.env
