@@ -1,6 +1,17 @@
-﻿namespace Identity.Controllers.User
+﻿using Identity.Aplication.User;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Identity.Controllers.User
 {
-    public class UserController
+    [ApiController]
+    [Route("api/v1/user")]
+    public class UserController : ControllerBase
     {
+        private readonly IAplicUser _aplicUser;
+
+        public UserController(IAplicUser aplicUser) 
+        {
+            _aplicUser = aplicUser;
+        }
     }
 }
